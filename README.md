@@ -1,0 +1,2 @@
+# riverpod_mvvm
+Riverpodを使ったMVVMアーキテクチャの練習
